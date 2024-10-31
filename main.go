@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
+/*
+	entry point in application
+*/
 
 func main() {
-	fmt.Println("gd?")
 }
